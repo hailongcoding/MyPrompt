@@ -25,7 +25,7 @@ def choice():
     choice_input = int(input("    >> "))
     #check 
     if choice_input == 1 :
-        neofetch()
+        cmd()
 
     elif choice_input == 2 :
         ps() 
