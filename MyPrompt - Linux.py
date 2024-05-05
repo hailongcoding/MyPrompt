@@ -14,6 +14,7 @@ def cmd():
     system("sudo apt install neofetch")
     system('clear')
     system('neofetch')
+    system('echo TERMINAL')
 
 def ps():
     system('clear')
